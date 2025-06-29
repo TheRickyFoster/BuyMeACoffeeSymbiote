@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BuyMeACoffeeSymbiote
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# BuyMeACoffeeSymbiote
+>>>>>>> 533988dd90868996c544b1ec677e8f75aa58bcf9
